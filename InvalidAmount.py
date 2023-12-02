@@ -1,0 +1,2 @@
+class InvalidAmount(ValueError):
+    pass

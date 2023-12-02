@@ -1,0 +1,2 @@
+class IncorrectPin(ValueError):
+    pass

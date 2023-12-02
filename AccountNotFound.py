@@ -1,0 +1,2 @@
+class AccountNotFound(ValueError):
+    pass
